@@ -23,7 +23,7 @@ La data que se absorbe suele ser organizada de manera tal que se acopla a las gu
 
 La idea de este proyecto es donarles las percepciones del mundo que fui hilvanando a partir de experiencias y lecturas de distintos pensadores: algunos de los cuales visito con frecuencia, otros se pierden en mi cabeza y sus ideas reflotan, anónimas, bajo el disfraz de la intuición. Quizá logre contagiarles la costumbre de desconfiar de los poderes instituidos y desechar, en la medida de lo posible, las formas que nos trajeron hasta esta catástrofe mundial.
 
-#### Pero, pero, pero… uso las redes para comunicarme con amigos!
+Pero, pero, pero… uso las redes para comunicarme con amigos!
 
 Las redes “sociales” poco y nada tienen de sociabilidad. A lo sumo son un espejismo de la sociabilidad, productoras de conexiones virtuales para-sociales que algunas veces logran convertirse en relaciones de afinidad. No descarto por completo algún potencial, muchos acercamientos a distintos autores e ideas (tanto del canon académico, crítico e incluso del “under”) fueron a través de las redes. Aún así el optimismo tecnológico me parece una arista de la ideología que reconduce poder a los ya poderosos. Defender el uso de las plataformas por su cualidad de herramientas de comunicación es enfocarse en una de las declaraciones que hacen los beneficiarios de estos negocios y omitir cualidades importantes de las ataduras impuestas por su uso.
 
@@ -37,7 +37,7 @@ No es casual el formato al que estas plataformas obligan la presentación de ide
 
 Sorprende el halo de neutralidad que aun mantienen algunas redes contra toda evidencia: ¿Cómo puede ser que empezaron a gritar por clemencia recién cuando un oligarca de Estados Unidos dijo que quería adquirir una de las redes más importantes del planeta? Acaso antes de la potencial adquisición por parte de ese demagogo aburrido con demasiado dinero, ¿no era un medio controlado por oligarcas estadounidenses? ¿Creen que solo las cuentas que aparecen con la advertencia de ser “medios controlados por el gobierno ruso” están funcionando como vehículos de un gobierno? ¿Piensan que los oligopolios de medios basados en Estados Unidos no están siendo instrumentalizados por el gobierno estadounidense? Lo mismo aplica para cualquier medio en relación con cualquier interés. 
 
-#### ¿Qué pretende usted de mi?
+¿Qué pretende usted de mi?
 
 La idea de este formato es evitar, hasta donde sea posible, caer en las lógicas que entiendo que abonan a varios de los problemas que estamos atravesando como planeta. Sigo usando como sitio de hosteo a una empresa que (en el momento de escritura) pertenece a Microsoft, no pretendo sostener que me “liberé” de las garras de “Big Tech”. De hecho, no sé si las condiciones materiales están dadas para que podamos liberarnos de estos tiranos… quizá sea algo que tengamos que pensar y crear en conjunto entre las clases subalternas que queremos otro mundo. Aun así, saber que estoy sustrayéndole la atención a algunos usuarios y arrancándolos de las plataformas por unos minutos es una pequeña victoria con un gran potencial.
 
